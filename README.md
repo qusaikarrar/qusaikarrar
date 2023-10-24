@@ -13,7 +13,7 @@
 
 - 📚 At the moment, I'm pursuing a master's degree in **Industrial and Systems Engineering** at KFUPM.
 
-- 💻 All of my repositories are available [Here]((https://github.com/qusaikarrar?tab=repositories))
+- 💻 All of my repositories are available [Here](https://github.com/qusaikarrar?tab=repositories)
 
 - 🤝 Ask me about **anything and I'll be happy to help**
 
