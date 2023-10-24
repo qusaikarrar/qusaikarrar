@@ -71,7 +71,7 @@
 <img src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" alt="pandas" width="35" height="35"/> </a>  
 &nbsp;
 <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-<img src="https://th.bing.com/th/id/R.70a511df5c47af553036ab76cbda3aa9?rik=0xP2XWWZ76gUdA&pid=ImgRaw&r=0" alt="python" width="35" height="35"/> </a>
+<img src="https://scipy.org/images/logo.svg" alt="scipy" width="35" height="35"/> </a>
 &nbsp;  
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/> </a>  </p>
